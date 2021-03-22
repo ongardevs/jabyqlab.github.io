@@ -2,9 +2,9 @@
 
 Наш [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
-### Kozben Baskaru Technology
+### Kozben Jazu Technology
 
-Потестировать технологию Kozben Baskaru [Посетить](https://unruffled-colden-c8e48a.netlify.app/)
+Потестировать технологию Kozben Jazu [Посетить сайт](https://unruffled-colden-c8e48a.netlify.app/)
 
 ### Support or Contact
 
