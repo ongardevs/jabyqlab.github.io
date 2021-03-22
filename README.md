@@ -1,4 +1,4 @@
-## Welcome to Jabyq Lab Pages
+## Welcome to Jabyq Laboratory
 
 Наш [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
