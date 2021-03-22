@@ -4,7 +4,7 @@
 
 ### Kozben Baskaru Technology
 
-Посетить сайт Kozben Baskaru Technology [Посетить](https://unruffled-colden-c8e48a.netlify.app/)
+Потестировать технологию Kozben Baskaru [Посетить](https://unruffled-colden-c8e48a.netlify.app/)
 
 ### Support or Contact
 
