@@ -4,7 +4,7 @@
 
 ### Kozben Jazu Technology
 
-Потестировать технологию Kozben Jazu [Посетить сайт](https://kind-cori-45a949.netlify.app/)
+Протестировать технологию Kozben Jazu [Посетить сайт](https://kind-cori-45a949.netlify.app/)
 
 ### Support or Contact
 
