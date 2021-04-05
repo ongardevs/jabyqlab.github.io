@@ -16,6 +16,12 @@ My [Github](https://github.com/jabyqlab)
 My [Twitter](https://twitter.com/ongar_dev)
 My [Instagram](https://www.instagram.com/ongar.dev/)
 
+// Java code with syntax highlighting.
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
 
 
 
