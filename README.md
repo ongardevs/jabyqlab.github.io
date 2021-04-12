@@ -1,19 +1,20 @@
 ## Welcome to Jabyq Laboratory
-Наш [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
+I am Ongar, 19 y/o, junior developer, founder of the IT company " Jabyq Lab "
+Our [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
 ### Kozben Jazu Technology
-Протестировать технологию Kozben Jazu [Посетить сайт](https://kozben-jazu.netlify.app/)
+Test Kozben Jazu technology [Open](https://kozben-jazu.netlify.app/)
 
-### Сайты которые я создал
-Iphone XS [Посетить сайт](https://jabyqlab.github.io/iphone/)
+### Websites that I created
+Iphone XS [Open](https://jabyqlab.github.io/iphone/)
 
-Komektes [Посетить сайт](https://komektes.github.io/info/)
+Komektes [Open](https://komektes.github.io/info/)
 
 ### Support or Contact
-По всем вопросам : contact.jabyq@gmail.com
+For all questions : contact.jabyq@gmail.com
 
-My [Github](https://github.com/jabyqlab)
-My [Twitter](https://twitter.com/ongar_dev)
-My [Instagram](https://www.instagram.com/ongar.dev/)
+[Github](https://github.com/jabyqlab)
+[Twitter](https://twitter.com/ongar_dev)
+[Instagram](https://www.instagram.com/ongar.dev/)
 
 
