@@ -1,5 +1,5 @@
 ## Welcome to Jabyq Laboratory
-Я Онгар, 19 лет, младший разработчик, основатель IT-компании "Jabyq Lab".
+Я Онгар, 19 лет, джуниор разработчик, основатель IT-компании "Jabyq Lab".
 
 Our [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
