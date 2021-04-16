@@ -3,7 +3,7 @@
 
 Информация про меня: [Open](https://ongar-dev.netlify.app/)
 
-Our [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
+Jabyq Lab в Google Play [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
 ### Kozben Jazu Technology
 Протестировать Kozben Jazu technology [Open](https://kozben-jazu.netlify.app/)
