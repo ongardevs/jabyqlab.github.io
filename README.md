@@ -1,9 +1,9 @@
 ## Welcome to Jabyq Laboratory
-Я Онгар, 19 лет, джуниор разработчик, основатель IT-компании "Jabyq Lab".
+Я Онгар, 19 лет, джуниор разработчик, основатель "Jabyq Lab".
 
 Информация про меня: [Open](https://ongar-dev.netlify.app/)
 
-Jabyq Lab в Google Play [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
+ССЫЛКА Clubhouse [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
 ### Kozben Jazu Technology
 Протестировать Kozben Jazu technology [Open](https://kozben-jazu.netlify.app/)
