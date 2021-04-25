@@ -3,9 +3,9 @@
 
 Информация про меня: [Open](https://ongar-dev.netlify.app/)
 
-ССЫЛКА Clubhouse [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
+Android version Clubhouse [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
-Web-version Clubhouse [OPEN](https://clubhouse-ongardev.netlify.app/)
+Web-version Clubhouse [https://clubhouse-ongardev.netlify.app/](https://clubhouse-ongardev.netlify.app/)
 
 ### Kozben Jazu Technology
 Протестировать Kozben Jazu technology [Open](https://kozben-jazu.netlify.app/)
