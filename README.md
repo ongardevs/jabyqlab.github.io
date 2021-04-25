@@ -5,6 +5,8 @@
 
 ССЫЛКА Clubhouse [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
+Web-version Clubhouse [OPEN](https://clubhouse-ongardev.netlify.app/)
+
 ### Kozben Jazu Technology
 Протестировать Kozben Jazu technology [Open](https://kozben-jazu.netlify.app/)
 
