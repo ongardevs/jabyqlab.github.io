@@ -1,5 +1,5 @@
 ## Welcome to Jabyq Laboratory
-Я Онгар, 19 лет, джуниор разработчик, основатель "Jabyq Lab".
+Я Онгар, 18 лет, джуниор разработчик, основатель "Jabyq Lab".
 
 Информация про меня: [Open](https://ongar-dev.netlify.app/)
 
