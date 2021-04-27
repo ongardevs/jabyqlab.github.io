@@ -1,7 +1,7 @@
 ## Welcome to Jabyq Laboratory
 Я Онгар, 18 лет, джуниор разработчик, основатель "Jabyq Lab".
 
-Информация про меня: [Open](https://ongar-dev.netlify.app/)
+Информация про меня: [https://ongardev.netlify.app/](https://ongardev.netlify.app/)
 
 Android version Clubhouse [Google Play](https://play.google.com/store/apps/dev?id=6423833022222539116) 
 
